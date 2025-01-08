@@ -1,0 +1,11 @@
+First Of All Thanks For Supporting Us !
+--------------------------------------
+
+To Use ReadOnly At Both Editor And Runtime Please Use This Arttibute : [ReadOnly]
+
+To Use ReadOnly At Runtime Please Use This Arttibute : [ReadOnlyWhenPlaying]
+
+----------------------------------------------------------------------------
+
+
+Also There's An Test Script To See How it Should Work in Coding :), The Script : ReadOnlyValue
